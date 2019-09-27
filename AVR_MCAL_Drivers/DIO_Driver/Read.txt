@@ -1,2 +1,2 @@
-This Driver is Used with AVR_32 
+This Driver is Used with ATmega32 
 Functions and parameters are Explained with sufficient Comments
