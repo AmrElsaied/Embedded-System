@@ -2,7 +2,7 @@
  * Std_types.h
  *
  *  Created on: Aug 30, 2019
- *      Author: 20120
+ *      Author: Amr Elsaied
  */
 
 #ifndef STD_TYPES_H_
