@@ -1,0 +1,2 @@
+This example shows how the driver's functions work 
+It's reading a signal from a switch and accroding to this value is controlling a LED
