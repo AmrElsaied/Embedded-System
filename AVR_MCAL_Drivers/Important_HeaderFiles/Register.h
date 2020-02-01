@@ -2,7 +2,7 @@
  * Register.h
  *
  *  Created on: Aug 30, 2019
- *      Author: 20120
+ *      Author: Amr Elsaied
  */
 
 #ifndef REGISTER_H_
